@@ -24,5 +24,5 @@
      5. Write tests – Unit and integration tests to ensure correctness and           prevent regressions.
      6. Add more endpoints – E.g., GET /tasks/:id to fetch a single task.
      7. Implement soft deletes – Instead of permanent deletion, mark tasks           as deleted to preserve history.
-    5. Tools or AI assistance used
+   5. Tools or AI assistance used
         I used Node.js, Express, and REST API design. For the code, I wrote          it manually, with the assistance of deepseekAI 
